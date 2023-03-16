@@ -1,6 +1,6 @@
 <h1 align="center"> K2 Projects </h1>
 
-<h4 align="center"> 🌏: I'm Independent Node Validator & Crypto Enthusiast from North Sumatera, Indonesia 🌏:</h1>
+<h4 align="center"> 🌏 I'm Independent Node Validator & Crypto Enthusiast from North Sumatera, Indonesia 🌏 </h1>
 
 #
  <div align="center">
