@@ -26,10 +26,6 @@ We work with all popular and new/unique blockchains. We help projects develop in
 
 #
 <div align="center">
- 
 
- </details>
- <br />
-<br />
   </div>
 </div>
